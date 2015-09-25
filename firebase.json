@@ -1,0 +1,9 @@
+{
+  "firebase": "todounip",
+  "public": "index.html",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
